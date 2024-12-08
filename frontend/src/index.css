@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  box-sizing: border-box;
+  transition: all 0.3s ease;
+  font-family: 'Poppins', 'gilroy';
+  font-weight: 400;
+  letter-spacing: 0.02em;
+  word-wrap: break-word;
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+  outline: none;
+  list-style: none;
+}
